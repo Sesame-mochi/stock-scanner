@@ -1,0 +1,1 @@
+flask yfinance flask-cors
