@@ -1,1 +1,3 @@
-flask yfinance flask-cors
+flask
+yfinance
+flask-cors
